@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+.d1{
+    margin-top: 150px;
+    font-style: italic;
+    text-align: center;
+}
+.homebtn{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+}

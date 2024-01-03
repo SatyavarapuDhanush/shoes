@@ -1,0 +1,23 @@
+    img{
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+}
+.req{
+    color:solid black ;
+    font-weight: 100;
+    font-style: normal;
+    margin-left: 50px;
+    font-size: large;
+
+}
+button{
+    margin-left: 50px;
+    color: white;
+    background-color: red;
+}
+body{
+    background-color: pink;
+}

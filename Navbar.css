@@ -1,0 +1,49 @@
+.bg{
+    color: skyblue;
+    background-color: rgb(140, 109, 69);
+    padding: 30px;
+}
+a{
+    margin-right: 20px;
+    text-decoration: none   ;
+}
+
+
+.flex-container {
+    
+    flex-wrap: nowrap;
+    background-color: rgb(140, 109, 69);
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    display: flex;
+    width: auto;
+    height: auto;
+  }
+
+.flex-container > div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(140, 109, 69);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+
+body{
+    background-color: rgb(140, 109, 69);
+    padding: auto;
+    background-image: url(images/home.webp);
+}
+  
+.footer{
+       margin-left: 600px;
+}
+  
+  
